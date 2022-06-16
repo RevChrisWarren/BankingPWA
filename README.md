@@ -10,3 +10,4 @@
 
 ## When offline, IndexedDB will keep tarck of transactions, and those will be entered into the online database once connectivity has been restored.
 
+![Screenshot of application](/BankingPWA.png)
